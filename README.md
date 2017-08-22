@@ -1,2 +1,2 @@
-# docker-golang-with-glide
-Docker for golang with glide
+# docker-golang-builder
+Dockerfile for golang with glide, awscli
